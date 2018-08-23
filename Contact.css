@@ -7,10 +7,10 @@ body{
 .jumbotron{
     margin-top:20px;
     width:69em;
-    height:420px;
+    height:430px;
     margin-bottom:51px;
-    padding-top:15px
-    
+    padding-top:15px;
+    padding-bottom: 2rem
 }
 
 
@@ -74,3 +74,4 @@ img{
       
     
    }
+ 

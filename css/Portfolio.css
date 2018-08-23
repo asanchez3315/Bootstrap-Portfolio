@@ -7,7 +7,7 @@ body{
 .jumbotron{
     margin-top:20px;
     width:69em;
-    height:420px;
+    height:425px;
     margin-bottom:51px;
     padding-top:15px
     
@@ -24,9 +24,7 @@ hr{
 }
 
 img{
-    width:150px;
-    height:150px;
-    margin-right:1em
+    margin-bottom:20px
     
 }
 
@@ -72,5 +70,10 @@ img{
        padding-top:15px;
        border-top:solid #4aaaa5 5px
       
-    
    }
+
+   .contain{
+       object-fit: contain
+   }
+
+  
